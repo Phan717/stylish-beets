@@ -2,3 +2,11 @@ html {
   box-sizing: border
   background-color: #c9b5ab;
 }
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #c9b5ab;
+}
