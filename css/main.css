@@ -7,6 +7,49 @@ html {
   box-sizing: inherit;
 }
 
+/*
+font-family: 'PT Sans', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'PT Serif', serif;
+*/
+
 body {
   background-color: #c9b5ab;
+}
+
+header {
+  color: #3f1622;
+  font-family: 'PT Sans';
+}
+
+h2 {
+  font-family: 'PT Sans';
+  color: #3f1622;
+  font-size: 1.125rem;
+}
+
+nav ol {
+  color: #8f2440;
+}
+
+[href="Common-varieties"] {
+  color: #8f2440;
+  font-size: 1.5rem;
+}
+
+[href="Nutritional-information"] {
+  color: #8f2440;
+  font-size: 1.5rem;
+}
+
+[href="Tags"] {
+  color: #8f2440;
+  font-size: 1.5rem;
+}
+
+.blockquote p {
+  font-family: PT Serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  text-align: left;
 }
