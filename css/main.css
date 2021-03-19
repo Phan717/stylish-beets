@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #c9b5ab;
+  background-color: #8F2440;
 }
 
 *, *::before, *::after {
@@ -14,11 +14,11 @@ font-family: 'PT Serif', serif;
 */
 
 body {
-  background-color: #c9b5ab;
+  background-color: #C9B5AB;
 }
 
 header {
-  color: #3f1622;
+  color: #3F1622;
   font-family: "PT Sans", sans-serif;
 }
 
@@ -29,24 +29,24 @@ nav ol {
 }
 
 nav .list {
-  color: #8f2440;
+  color: #8F2440;
   font-size: 1.5rem;
   list-style-type: none;
   text-decoration: none;
 }
 
 [href="Common-varieties"] {
-  color: #8f2440;
+  color: #8F2440;
   font-size: 1.5rem;
 }
 
 [href="Nutritional-information"] {
-  color: #8f2440;
+  color: #8F2440;
   font-size: 1.5rem;
 }
 
 [href="Tags"] {
-  color: #8f2440;
+  color: #8F2440;
   font-size: 1.5rem;
 }
 
@@ -72,7 +72,7 @@ main .intro::first-line {
 }
 
 footer .source {
-  color: #8f2440;
+  color: #8F2440;
 }
 
 aside .list {
@@ -104,5 +104,5 @@ h2 {
 
 a:hover {
   text-decoration: none;
-  color: #8f2440;
+  color: #8F2440;
 }
