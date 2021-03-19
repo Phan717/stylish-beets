@@ -34,6 +34,14 @@ a:link {
   color: #8f2440;
 }
 
+[href="Common-varieties"] {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #8f2440;
+
 .blockquote p {
   font-family: "PT Serif", serif;
   font-style: italic;
@@ -80,11 +88,6 @@ h2 {
   font-size: 1.5rem;
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
-}
-
-a:hover {
-  text-decoration: none;
-  color: #8f2440;
 }
 
 a {
