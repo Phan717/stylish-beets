@@ -103,5 +103,6 @@ h2 {
 }
 
 a:hover {
+  text-decoration: none;
   color: #8f2440;
 }
