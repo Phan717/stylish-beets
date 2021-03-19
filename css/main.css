@@ -48,6 +48,7 @@ a:link {
 
 [href="https://www.wikipedia.org"] {
   text-decoration: none;
+  color: #8f2440;
 }
 
 a:hover {
