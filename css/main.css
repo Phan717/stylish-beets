@@ -101,3 +101,7 @@ a:hover {
 a {
   text-decoration: none;
 }
+
+body {
+  background-color: #c9b5ab;
+}
