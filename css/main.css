@@ -101,3 +101,7 @@ h2 {
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
 }
+
+footer a:hover {
+  color: #8f2440;
+}
