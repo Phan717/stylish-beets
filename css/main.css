@@ -35,6 +35,7 @@ nav .list {
   font-style: italic;
   font-size: 1.5rem;
   text-align: left;
+  font-weight: normal;
 }
 
 figcaption {
@@ -42,7 +43,6 @@ figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
-  font-weight: normal;
 }
 
 main .intro::first-line {
