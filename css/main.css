@@ -19,18 +19,18 @@ body {
 
 header {
   color: #3f1622;
-  font-family: 'PT Sans';
+  font-family: 'PT Sans', sans-serif;
 }
 
 h2 {
-  font-family: 'PT Sans';
+  font-family: 'PT Sans', sans-serif;
   color: #3f1622;
   font-size: 1.125rem;
 }
 
-nav dl {
+nav ul {
   color: #8f2440;
-  margin-left: 3em;
+  margin-left: 1em;
 }
 
 nav .list {
@@ -54,14 +54,14 @@ nav .list {
 }
 
 .blockquote p {
-  font-family: PT Serif;
+  font-family: 'PT Serif', serif;
   font-style: italic;
   font-size: 1.5rem;
   text-align: left;
 }
 
 figcaption {
-  font: PT Serif;
+  font-family: 'PT Serif', serif;
   font-size: 0.8rem;
   font-style: italic;
   text-align: center;
@@ -70,6 +70,7 @@ figcaption {
 main .intro::first-line {
   font-size: 1.125rem;
   font-weight: bold;
+  line-height: 1.5
 }
 
 footer .source {
