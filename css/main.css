@@ -39,6 +39,9 @@ nav .list {
   font-size: 1.5rem;
   list-style-type: none;
   text-decoration: none;
+
+
+
 }
 
 [href="Common-varieties"] {
@@ -87,4 +90,8 @@ aside .list {
 
 img {
   width: 100%;
+}
+
+a:hover {
+  text-decoration: none;
 }
