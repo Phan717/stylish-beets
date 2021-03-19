@@ -38,6 +38,10 @@ nav .list {
   font-weight: normal;
 }
 
+main .phrase {
+  font-weight: normal;
+}
+
 figcaption {
   font-family: "PT Serif", serif;
   font-size: .8rem;
