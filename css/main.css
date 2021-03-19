@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: #c9b5ab;
 }
 
 *, *::before, *::after {
@@ -94,8 +95,4 @@ a {
 a:hover {
   text-decoration: none;
   color: #8f2440;
-}
-
-body {
-  background-color: #c9b5ab;
 }
