@@ -22,12 +22,6 @@ header {
   font-family: "PT Sans", sans-serif;
 }
 
-h2 {
-  font-family: "PT Sans", sans-serif;
-  color: #3f1622;
-  font-size: 1.125rem;
-}
-
 nav ol {
   margin-left: .2em;
   line-height: 1.5;
@@ -97,13 +91,13 @@ a:hover {
 dl dt {
   font-weight: bold;
   font-size: 1.125rem;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5;
 }
 
 h2 {
   font-weight: bold;
   font-size: 1.5rem;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   line-height: 1.5;
 }
