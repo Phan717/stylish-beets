@@ -28,8 +28,9 @@ h2 {
   font-size: 1.125rem;
 }
 
-nav ol {
+nav dl {
   color: #8f2440;
+  margin-left: 3em;
 }
 
 [href="Common-varieties"] {
