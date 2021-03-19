@@ -38,6 +38,18 @@ a:link {
   text-decoration: none;
 }
 
+[href="Nutritional-information"] {
+  text-decoration: none;
+}
+
+[href="Tags"] {
+  text-decoration: none;
+}
+
+[href="https://www.wikipedia.org"] {
+  text-decoration: none;
+}
+
 a:hover {
   text-decoration: none;
   color: #8f2440;
