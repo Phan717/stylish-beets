@@ -33,6 +33,11 @@ nav dl {
   margin-left: 3em;
 }
 
+nav .list {
+  color: #8f2440;
+  font-size: 1.5rem;
+}
+
 [href="Common-varieties"] {
   color: #8f2440;
   font-size: 1.5rem;
@@ -53,4 +58,20 @@ nav dl {
   font-style: italic;
   font-size: 1.5rem;
   text-align: left;
+}
+
+figcaption {
+  font: PT Serif;
+  font-size: 0.8rem;
+  font-style: italic;
+  text-align: center;
+}
+
+main .intro::first-line {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+footer .source {
+  color: #8f2440
 }
