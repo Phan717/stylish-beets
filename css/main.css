@@ -84,3 +84,7 @@ footer .source {
 aside .list {
   list-style-type: circle;
 }
+
+img {
+  width: 100%;
+}
