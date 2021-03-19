@@ -28,15 +28,17 @@ h2 {
   font-size: 1.125rem;
 }
 
-nav ul {
-  color: #8f2440;
+nav ol {
   margin-left: .2em;
+  line-height: 1.5;
+  list-style-type: lower-greek;
 }
 
 nav .list {
   color: #8f2440;
   font-size: 1.5rem;
   list-style-type: none;
+  text-decoration: none;
 }
 
 [href="Common-varieties"] {
@@ -81,8 +83,4 @@ footer .source {
 
 aside .list {
   list-style-type: circle;
-}
-
-nav ol {
-  list-style-type: lower-greek;
 }
