@@ -84,7 +84,7 @@ img {
   width: 100%;
 }
 
-a:hover {
+a {
   text-decoration: none;
 }
 
@@ -100,9 +100,4 @@ h2 {
   font-size: 1.5rem;
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
-}
-
-a,
-strong {
-  font-weight: normal;
 }
