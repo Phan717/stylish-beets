@@ -30,21 +30,6 @@ nav .list {
   text-decoration: none;
 }
 
-[href="Common-varieties"] {
-  color: #8f2440;
-  font-size: 1.5rem;
-}
-
-[href="Nutritional-information"] {
-  color: #8f2440;
-  font-size: 1.5rem;
-}
-
-[href="Tags"] {
-  color: #8f2440;
-  font-size: 1.5rem;
-}
-
 .blockquote p {
   font-family: "PT Serif", serif;
   font-style: italic;
@@ -100,6 +85,7 @@ a:hover {
 
 a {
   text-decoration: none;
+  color: #8f2440;
 }
 
 body {
