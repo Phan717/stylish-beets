@@ -33,7 +33,7 @@ nav .list {
 
 a:hover {
   color: #8f2440;
-  text-decoration: hyper-link;
+  text-decoration: none;
 }
 
 .blockquote p {
