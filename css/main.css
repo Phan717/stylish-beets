@@ -63,6 +63,7 @@ main .intro::first-line {
 
 footer .source {
   color: #8f2440;
+  font-size: .8rem;
 }
 
 aside .list {
