@@ -1,6 +1,9 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
+  padding: 10px 10px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 *, *::before, *::after {
