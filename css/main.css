@@ -31,6 +31,10 @@ nav .list {
   text-decoration: none;
 }
 
+a:hover {
+  color: #8f2440;
+}
+
 .blockquote p {
   font-family: "PT Serif", serif;
   font-style: italic;
@@ -39,7 +43,7 @@ nav .list {
   font-weight: normal;
 }
 
-main .phrase {
+main .blockquote .blockquote {
   font-weight: normal;
 }
 
@@ -88,11 +92,6 @@ h2 {
 }
 
 a {
-  text-decoration: none;
-  color: #8f2440;
-}
-
-a:hover {
   text-decoration: none;
   color: #8f2440;
 }
