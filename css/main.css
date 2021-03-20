@@ -16,8 +16,8 @@ font-family: 'PT Serif', serif;
 header {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
-  line-height: .8rem;
-  font-size: 1rem;
+  line-height: 1.5;
+  font-size: .8rem;
 }
 
 nav ol {
@@ -31,6 +31,7 @@ nav .list {
   font-size: 1.125rem;
   list-style-type: none;
   text-decoration: none;
+  line-height: 1.5;
 }
 
 a:hover {
