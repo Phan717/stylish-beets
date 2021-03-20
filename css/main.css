@@ -17,6 +17,7 @@ header {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   line-height: .8rem;
+  font-size: 1rem;
 }
 
 nav ol {
@@ -27,7 +28,7 @@ nav ol {
 
 nav .list {
   color: #3f1622;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   list-style-type: none;
   text-decoration: none;
 }
